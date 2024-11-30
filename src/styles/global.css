@@ -28,7 +28,7 @@ html {
     top: 5rem;
     left: 48px;
     background-color: #ff9776;
-    display: none;
+    display: block;
     margin: 0;
   }
   
